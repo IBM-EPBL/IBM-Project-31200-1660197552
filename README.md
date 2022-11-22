@@ -1,0 +1,6 @@
+Fertilizer Recommendation System for Disease Prediction
+
+TEAM LEADER : RASIKA M
+TEAM MEMBER 1 : SANJANA K
+TEAM MEMBER 2 : THARANI G
+TEAM MEMBER 3 : DEVADHARSHINI S
